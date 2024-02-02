@@ -1123,9 +1123,6 @@
   flex-direction: column;
   justify-content: center;
 }
-.contact__left {
-/*   flex: 0 1 40%;
-} */
 .contact__center {
   text-align: center;
 }
@@ -1154,9 +1151,6 @@
   color: #b38787;
 }
 @media (max-width: 992px) {
-  .contact__left {
-/*     flex: 0 1 30%;
-  } */
   .contact__reserve {
     display: flex;
     justify-content: space-between;
