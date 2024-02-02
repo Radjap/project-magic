@@ -433,6 +433,10 @@
   .if-you__image {
 /*     max-width: 131px;
     height: auto; */
+    position: absolute;
+    bottom: 0%;
+    right: 50%;
+    transform: translate(50%, 0%);
   }
 }
 @media (max-width: 425px) {
