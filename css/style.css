@@ -382,9 +382,9 @@
   }
 }
 @media (max-width: 768px) {
-  .if-you__container {
+/*   .if-you__container {
     padding-bottom: 132px;
-  }
+  } */
   .page__if-you {
   }
   .title {
@@ -431,8 +431,8 @@
     margin-bottom: 58px;
   }
   .if-you__image {
-    max-width: 131px;
-    height: auto;
+/*     max-width: 131px;
+    height: auto; */
   }
 }
 @media (max-width: 425px) {
