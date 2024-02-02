@@ -423,6 +423,7 @@
   }
   .if-you__button {
     flex-direction: column;
+    align-items: center;
   }
   .if-you__button p {
     text-align: center;
